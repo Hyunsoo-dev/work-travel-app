@@ -2,6 +2,7 @@
   "name": "workhardtravelhardapp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "http://Hyunsoo-dev.github.io/work-travel-app",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
